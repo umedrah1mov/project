@@ -1,4 +1,5 @@
 "use strict";
+
 // let number = 5;
 
 // console.log(10/0); 
@@ -25,10 +26,7 @@
 // answers[2] = prompt('Сколько вам лет?');
 
 // console.log(answers);
-// document.write(answers);
 
 // Интерполяция ES6
-
 const category = 'phones';
-
 console.log(`https://someurl.com/${category}/8`);
